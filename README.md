@@ -46,10 +46,18 @@ Master автоматически передаёт изменения Slaves.
 
 # Задание 2
 Выполните конфигурацию master-slave репликации, примером можно пользоваться из лекции.
+mysql установлен и запущен:
 <img width="744" height="287" alt="статус" src="https://github.com/user-attachments/assets/20c71cb8-455b-4789-b8a8-74c262ffd986" />
 статус сервера master:
 <img width="1084" height="472" alt="master" src="https://github.com/user-attachments/assets/0eb9135f-bd7b-4749-b8cc-58079f7eaba2" />
 статус сервера slave:
 <img width="1126" height="468" alt="slave" src="https://github.com/user-attachments/assets/d828bcd9-c65b-4900-9649-982f805c3638" />
+На сервере Master записаны данные в базу данных – DB_test:
+<img width="1919" height="916" alt="DB_test naster" src="https://github.com/user-attachments/assets/8865d24a-03c1-4a5f-a51f-9f74ef316d18" />
+База данных сервера slave:
+<img width="1920" height="914" alt="DB_test slave" src="https://github.com/user-attachments/assets/dba01178-c05f-4f9b-9536-7ec6dd8ee67d" />
+
+
+
 
 
