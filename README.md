@@ -46,3 +46,10 @@ Master автоматически передаёт изменения Slaves.
 
 # Задание 2
 Выполните конфигурацию master-slave репликации, примером можно пользоваться из лекции.
+<img width="744" height="287" alt="статус" src="https://github.com/user-attachments/assets/20c71cb8-455b-4789-b8a8-74c262ffd986" />
+статус сервера master:
+<img width="1084" height="472" alt="master" src="https://github.com/user-attachments/assets/0eb9135f-bd7b-4749-b8cc-58079f7eaba2" />
+статус сервера slave:
+<img width="1126" height="468" alt="slave" src="https://github.com/user-attachments/assets/d828bcd9-c65b-4900-9649-982f805c3638" />
+
+
